@@ -1,4 +1,5 @@
-<img width="2094" height="745" alt="slipstream" src="https://github.com/user-attachments/assets/ac247895-a140-4624-a46f-84fbfa722ad3" />
+<img width="1048" height="745" alt="Screenshot 2026-11-01 at 6 50 57 PM" src="https://github.com/user-attachments/assets/03c1532e-512c-4900-b31f-198adf0c13d9" />
+
 
 
 # Slipstream
