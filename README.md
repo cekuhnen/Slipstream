@@ -1,3 +1,6 @@
+<img width="2094" height="745" alt="slipstream" src="https://github.com/user-attachments/assets/ac247895-a140-4624-a46f-84fbfa722ad3" />
+
+
 # Slipstream
 
 A browser wind tunnel for quick aerodynamic studies of products and vehicles: cars, helmets, scooters, drones, or your own STL/OBJ models. The flow simulation runs on the computer's graphics card (WebGPU). Everything it needs is in this folder, so it works offline and needs no installation.
